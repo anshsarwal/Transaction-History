@@ -23,7 +23,6 @@ export default {
 <style>
   #app{
     margin-top: 100px;
-    margin-bottom: 50px;
   }
 </style>
 
