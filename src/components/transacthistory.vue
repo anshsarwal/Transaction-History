@@ -40,7 +40,7 @@
               Mera Haafta Biduuu!!
             </v-flex>
           </v-layout>
-          <!-- Transact Slip -->
+          <!-- Transact Slip (Basically This Code Must be Executed when A new Transaction Slip is to be displayed)-->
           <v-layout row wrap mt-4 mb-4>
             <v-flex lg5 md5 sm5 xs12 class="one" pl-4 pt-4 pb-4>
               Package Ka Chotta Sa Naam
