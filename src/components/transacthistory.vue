@@ -11,49 +11,49 @@
           <!-- Transact Slip(Add 1 everytime a transaction is done) -->
           <v-layout row wrap mt-5>
             <v-flex lg5 md5 sm5 xs12 class="one" pl-4 pt-4 pb-4>
-              Package Ka Chotta Sa Naam
+              Package Name
             </v-flex>
             <v-flex lg2 md2 sm2 xs12 class="two" pt-4 pb-4>
-              ₹ Paaisaa
+              ₹ 999
             </v-flex>
             <v-flex lg2 md2 sm2 xs12 class="three" pt-3 pb-4>
-              Maut ki Tareekh<br>
+              Date of Purchase<br>
               <a href="#">Get Email</a>
             </v-flex>
             <v-flex lg3 md3 sm3 xs12 class="four" pt-4 pb-4>
-              Mera Haafta Biduuu!!
+              Expiry Date
             </v-flex>
           </v-layout>
           <!-- Transact Slip -->
           <v-layout row wrap mt-4>
             <v-flex lg5 md5 sm5 xs12 class="one" pl-4 pt-4 pb-4>
-              Package Ka Chotta Sa Naam
+              Package Name
             </v-flex>
             <v-flex lg2 md2 sm2 xs12 class="two" pt-4 pb-4>
-              ₹ Paaisaa
+              ₹ 999
             </v-flex>
             <v-flex lg2 md2 sm2 xs12 class="three" pt-3 pb-4>
-              Maut ki Tareekh<br>
+              Date of Purchase<br>
               <a href="#">Get Email</a>
             </v-flex>
             <v-flex lg3 md3 sm3 xs12 class="four" pt-4 pb-4>
-              Mera Haafta Biduuu!!
+              Expiry Date
             </v-flex>
           </v-layout>
           <!-- Transact Slip (Basically This Code Must be Executed when A new Transaction Slip is to be displayed)-->
           <v-layout row wrap mt-4 mb-4>
             <v-flex lg5 md5 sm5 xs12 class="one" pl-4 pt-4 pb-4>
-              Package Ka Chotta Sa Naam
+              Package Name
             </v-flex>
             <v-flex lg2 md2 sm2 xs12 class="two" pt-4 pb-4>
-              ₹ Paaisaa
+              ₹ 1299
             </v-flex>
             <v-flex lg2 md2 sm2 xs12 class="three" pt-3 pb-4>
-              Maut ki Tareekh<br>
+              Date of Purchase<br>
               <a href="#">Get Email</a>
             </v-flex>
             <v-flex lg3 md3 sm3 xs12 class="four" pt-4 pb-4>
-              Mera Haafta Biduuu!!
+              Expiry Date
             </v-flex>
           </v-layout>
         </v-flex>
